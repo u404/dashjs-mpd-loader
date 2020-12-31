@@ -6,7 +6,8 @@ module.exports = {
     filename: "index.js",
     library: 'DashjsMpdLoader',
     libraryExport: 'default',
-    libraryTarget: 'umd'
+    libraryTarget: 'umd',
+    globalObject: 'this'
   },
   target: "node",
   module: {
