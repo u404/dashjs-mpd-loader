@@ -15,10 +15,8 @@
     "webpack": "^5.11.1",
     "webpack-cli": "^4.3.0"
   },
-  {
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/u404/dashjs-mpd-loader.git"
-    } 
-  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/u404/dashjs-mpd-loader.git"
+  } 
 }
